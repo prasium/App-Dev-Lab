@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu</string>
+        <string name="night_mode_off">NIGHT MODE OFF</string>
+        <string name="night_mode_on">NIGHT MODE ON</string>
+</resources>
