@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Delicacy Restro</string>
+    <string-array name="menu_array">
+        <item>Select an item...</item>
+        <item>Spaghetti</item>
+        <item>Burger</item>
+        <item>Pancakes</item>
+        <item>Paneer Butter Masala</item>
+        <item>Chicken Curry</item>
+        <item>Ice Cream</item>
+        <item>Gulab Jamun</item>
+    </string-array>
+</resources>
