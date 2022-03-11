@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Veggies</string>
+    <string-array name="veggies_array">
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Bottle Gourd</item>
+        <item>Eggplant</item>
+        <item>Garlic</item>
+        <item>Turnip</item>
+        <item>Capsicum</item>
+        <item>Carrots</item>
+        <item>Cauliflower</item>
+        <item>Ginger</item>
+        <item>Green Cabbage</item>
+    </string-array>
+</resources>
